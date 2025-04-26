@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1745681604398",
+    "nome": "João da Silva",
+    "email": "millena@gmail.com",
+    "senha": "senha123",
+    "idade": "28",
+    "cidade": "Arapiraca"
+  },
+  {
+    "id": "1745682240881",
+    "nome": "João da Silva",
+    "email": "millenaagmail.com",
+    "senha": "senha123",
+    "idade": "28",
+    "cidade": "Maceió"
+  },
+  {
+    "id": "1745685513129",
+    "nome": "João da Silva",
+    "email": "millenaaaagmail.com",
+    "senha": "senha123",
+    "idade": "28",
+    "cidade": "Maceió"
+  }
+]
